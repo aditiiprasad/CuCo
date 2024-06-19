@@ -10,18 +10,19 @@ body {
     
     align-items: center;
     min-height: 100vh;
-    background-color: #e1eb8d;
+    background-color: #f3de2c;
 }
 
 .container {
 
-    background-color: #f3de2c;
+    background-color: white;
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
     width: 40%;
     margin-left: 27%;
     margin-top: 0.5rem;
+    border: 2px solid greenyellow;
 }
 h1, h9 {
     display: flex;
